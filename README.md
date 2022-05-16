@@ -1,6 +1,6 @@
 # Matching Card Game
 
-[matchingCard](https://user-images.githubusercontent.com/101942628/168598244-bcfa4f4a-25a5-4f30-a1e6-e9fb4d49f852.PNG)
+![matchingCard](https://user-images.githubusercontent.com/101942628/168598442-7e899e47-0d54-469c-975f-04ee6a372f88.PNG)
 
 ## Project Guidelines
 
@@ -12,7 +12,7 @@
 - Create a new branch called answer
 - Checkout answer branch
 - Push to your fork
-- Issue a pull request!
+- Issue a pull request
 
 - Your pull request description should contain the following:
   - (1 to 5 no 3) I completed the challenge
@@ -25,3 +25,4 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'm not sure if my constructors are setup cleanly...
 ```
+
